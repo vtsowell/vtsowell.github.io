@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "sapphire, emerald, and of course ruby"
-date:   2017-08-23 13:05:49 +0000
+date:   2017-08-23 09:05:50 -0400
 ---
 
 
